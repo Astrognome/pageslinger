@@ -1,0 +1,2 @@
+graft pageslinger/templates
+graft pageslinger/static
